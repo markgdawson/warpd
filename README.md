@@ -203,7 +203,7 @@ If you are interesting in adding warpd to your distribution's repository please 
   iTerm). The original cursor will consequently be visible in such cases,
   though functionality should be otherwise unaffected.
 
-- Wayland support has several limitations (see CAVEATS in the man page).
+- Wayland support has several limitations (see BUGS/LIMITATIONS in the man page).
 
 # Contributions
 
